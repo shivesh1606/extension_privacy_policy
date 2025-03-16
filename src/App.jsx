@@ -62,7 +62,7 @@ function App() {
           <h2>Contact</h2>
           <p>
             If you have questions about this privacy policy, please contact us at:{' '}
-            <a href="mailto:your.email@example.com">your.email@example.com</a>
+            <a href="bvenom87@gmail.com">your.email@example.com</a>
           </p>
         </section>
       </main>
